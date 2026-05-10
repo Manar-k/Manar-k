@@ -13,14 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="[https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling](https://i.pinimg.com/originals/47/95/bf/4795bfb82e7e40cff39c8a84b8f773f2.gif)"
-    />
-  </a>
   
-![](https://i.pinimg.com/originals/47/95/bf/4795bfb82e7e40cff39c8a84b8f773f2.gif)
+![](https://i.pinimg.com/originals/8c/6b/b9/8c6bb9175bd5788d3a86d18cc5d2b63f.gif)
 <div align="center">
   
 ## 💫 About Me:
