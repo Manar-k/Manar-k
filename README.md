@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<img src="images\chains-korta-ezgif.com-crop.gif"/><img src="images\chains-korta-ezgif.com-crop.gif" style=""/>
+<img src="images\chains-korta-ezgif.com-crop.gif" style="" width="100%"/>
 ![](https://i.pinimg.com/originals/8c/6b/b9/8c6bb9175bd5788d3a86d18cc5d2b63f.gif)
 
 <div align="center">
