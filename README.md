@@ -5,7 +5,7 @@
 <div align="center">
   
 <img src="images\chains-korta-ezgif.com-crop.gif" style="" width="100%"/>
-![](https://i.pinimg.com/originals/8c/6b/b9/8c6bb9175bd5788d3a86d18cc5d2b63f.gif)
+<img src="images\korta-kurapika.gif" style="" width="90%"/>
 
 <div align="center">
   
@@ -27,8 +27,6 @@
 ![](https://streak-stats.demolab.com/?user=Manar-k&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manar-k&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+<img src="images\chains-korta-ezgif.com-crop.gif" style="" width="100%"/>
+
 [![](https://komarev.com/ghpvc/?username=Manar-k&icon=5&color=4)](https://visitcount.itsvg.in)
-<!-- <br>⚠️ This README is uniquely designed by @Manar-k. -->
-<div align="center">
-  <img src="images\chains-korta-ezgif.com-crop.gif"/><img src="images\chains-korta-ezgif.com-crop.gif" style=""/>
